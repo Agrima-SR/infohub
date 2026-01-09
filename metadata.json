@@ -1,0 +1,7 @@
+{
+  "name": "Campus InfoHub",
+  "description": "A comprehensive college information portal where tutors share official updates and students stay informed with year-specific announcements, bus timings, and event registrations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
